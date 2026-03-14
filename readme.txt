@@ -1,5 +1,8 @@
-		Projects for mfc MDI, SDI and console&WinForms 
-apps with Dlls. Needed SQL server Express 
+Download the latest version of applications 
+in RAR arhives. That's 
+projects for mfc MDI, SDI and console plus WinForms 
+apps with Dlls. For correct works of apps it's needed the 
+SQL server Express 2014. The name of instance is
 SQLEXPRESS with Fractals  database, table FRSP, 
 fields X,Y,Z types NUMERIC(18,8). 
 compname is DESKTOP-A6FRH6A. 

@@ -10,4 +10,6 @@ of each project. WindowsFormsApplication2 extract
  to c:\users\user\documents\visual studio 2012\
 projects\windowsformsapplication2. MFCApplication1 extract
 to extract on path c:\users\user\documents
-\visual studio 2012\projects\MFCApplication1
+\visual studio 2012\projects\MFCApplication1. 
+The project windowsformsapp8 extract to 
+c:\users\axpower\source\repos\windowsformsapp8.

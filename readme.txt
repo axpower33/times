@@ -5,7 +5,7 @@ apps with Dlls. For correct works of apps it's needed the
 SQL server Express 2014. The name of instance is
 SQLEXPRESS with Fractals  database, table FRSP, 
 fields X,Y,Z types NUMERIC(18,8). 
-compname is DESKTOP-A6FRH6A. 
+compname is DESKTOP-A6FRH6A. The databases is in 
 Sqlbases.rar to extract on path 
 c:\users\basko\sqlbases\provisorbasedata.mdf. 
 Vcdlls&vcdll2.rar extract to bin\Debug directory 

@@ -21,4 +21,5 @@ The application fRSH5 extracts on path
 c:\users\axpower\source\repos\fRSH5.
 For the correct work of crystal report its needed 
 the crystal report viewer 2016 sp09 patch 21 with
-serial key.
+serial key. The viewer you can download from 
+the site of production.

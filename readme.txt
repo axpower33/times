@@ -22,4 +22,6 @@ c:\users\axpower\source\repos\fRSH5.
 For the correct work of crystal report its needed 
 the crystal report viewer 2016 sp09 patch 21 with
 serial key. The viewer you can download from 
-the official site of production.
+the official site of production. And last, download 
+the latest vcdlls2 to bin\debug of WinForms apps 
+to correct of work the Crystal report.

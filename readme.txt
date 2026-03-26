@@ -15,7 +15,8 @@ of each project. WindowsFormsApplication2 extract
 projects\windowsformsapplication2. MFCApplication1 
 extracts on path c:\users\user\documents
 \visual studio 2012\projects\MFCApplication1. 
-The project windowsformsapp8 extracts
+The project windowsformsapp8 in 2 winrar arhives 
+part1&part2 extracts to
 c:\users\axpower\source\repos\windowsformsapp8. 
 The application fRSH5 extracts on path 
 c:\users\axpower\source\repos\fRSH5.

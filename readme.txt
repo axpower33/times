@@ -21,6 +21,8 @@ c:\users\axpower\source\repos\windowsformsapp8.
 The application fRSH5 extracts on path 
 c:\users\axpower\source\repos\fRSH5. The app WpfAppMCF2
 is correct to path c:\users\user\source\repos\WpfAppMCF2.
+The app WpfAppMCF8 is correct to path 
+c:\users\user\source\repos\WpfAppMCF8.
 And SqlBases2.rar to c:\users\basko\Sqlbases and "extract here".
 For the correct work of crystal report its needed 
 the crystal report viewer 2016 sp09 patch 21 with

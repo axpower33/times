@@ -30,4 +30,5 @@ serial key. The viewer you can download from
 the official site of production. And last, download 
 the latest vcdlls2 to bin\debug of WinForms&XAML(last version 
 with comboboxs) apps to correct of work the Crystal report and 
-Report Viewer instruments. 
+Report Viewer instruments. The project on Delphi 7 Science 
+edition 2020 is Project1.rar set to directory anyware.
